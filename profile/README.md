@@ -34,7 +34,7 @@
 
 #### Architecture
 <p align="center">
-<img width="700px" src="/profile/image/Skill Architecture.jpg" />
+<!-- <img width="700px" src="/profile/image/Skill Architecture.jpg" /> -->
 </p>
 
 <br>
@@ -42,7 +42,7 @@
 
 #### Logo & Name
 <p align="center">
-<img width="700px" src="/profile/image/logo.png" />
+<!-- <img width="700px" src="/profile/image/logo.png" /> -->
 </p>
 
 <br>
@@ -50,6 +50,6 @@
 
 #### Demonstration Video
 <p align="center">
-<a href="https://www.youtube.com/watch?v=LDhX1-1IypA"><img width="700px" src="/profile/image/index.PNG" /> </a>
+<!-- <a href="https://www.youtube.com/watch?v=LDhX1-1IypA"><img width="700px" src="/profile/image/index.PNG" /> </a> -->
 </p>
 
