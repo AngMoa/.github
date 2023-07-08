@@ -28,7 +28,8 @@
 #### Design - Tool
 <p align="center">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
+<img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="photoshop" width="40" height="40"/>
 <br>
 <br>
 
@@ -42,7 +43,7 @@
 
 #### Logo & Name
 <p align="center">
-<!-- <img width="700px" src="/profile/image/logo.png" /> -->
+<img width="700px" src="" alt="로고" />
 </p>
 
 <br>
@@ -50,6 +51,6 @@
 
 #### Demonstration Video
 <p align="center">
-<!-- <a href="https://www.youtube.com/watch?v=LDhX1-1IypA"><img width="700px" src="/profile/image/index.PNG" /> </a> -->
+<a href=""><img width="700px" src="" alt="시연 영상" /> </a>
 </p>
 
