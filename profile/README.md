@@ -35,7 +35,7 @@
 
 #### Architecture
 <p align="center">
-<!-- <img width="700px" src="/profile/image/Skill Architecture.jpg" /> -->
+  <img width="700px" src="" alt="설계" />
 </p>
 
 <br>
